@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://github.com/ValeriyRadchenko/nightmare/nightmare.d.ts",
+    "raw": "github:ValeriyRadchenko/nightmare~nigtmare",
+    "typings": "https://github.com/ValeriyRadchenko/nightmare/nightmare.d.ts"
+  }
+}

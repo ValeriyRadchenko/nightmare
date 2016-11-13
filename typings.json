@@ -1,8 +1,7 @@
 {
-  "resolution": "main",
-  "tree": {
-    "src": "https://github.com/ValeriyRadchenko/nightmare/nightmare.d.ts",
-    "raw": "https://github.com/ValeriyRadchenko/nightmare/commit/529848df4829892b22945ded5e595c36ac8b1be5",
-    "typings": "https://github.com/ValeriyRadchenko/nightmare/nightmare.d.ts"
-  }
+  "name": "nightmare",
+  "main": "nightmare.d.ts",
+  "author": "Valerii Radchenko <radchenkodcz@gmail.com>",
+  "description": "The TypeScript definition for Nightmare",
+  "dependencies": {}
 }

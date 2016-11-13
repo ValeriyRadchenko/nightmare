@@ -2,7 +2,7 @@
   "resolution": "main",
   "tree": {
     "src": "https://github.com/ValeriyRadchenko/nightmare/nightmare.d.ts",
-    "raw": "github:ValeriyRadchenko/nightmare~nigtmare",
+    "raw": "https://github.com/ValeriyRadchenko/nightmare/commit/529848df4829892b22945ded5e595c36ac8b1be5",
     "typings": "https://github.com/ValeriyRadchenko/nightmare/nightmare.d.ts"
   }
 }
